@@ -30,3 +30,7 @@ Before running any of the above programs, the packages mentioned in this file mu
 **Alternate**
 
 This folder contains a python program Aruco.py which is a part of our alternate approach to align our end affector to the port in the aiming phase using Aruco markers.
+
+### Footnote
+
+The code will require changes before being deployed on any development board as there can be some specific programming differences depending on the board
