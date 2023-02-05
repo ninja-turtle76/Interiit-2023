@@ -26,3 +26,7 @@ These two files can be used to run the python scripts in a MATLAB environment.
 **requirements.txt**
 
 Before running any of the above programs, the packages mentioned in this file must be installed.
+
+**Alternate**
+
+This folder contains a python program Aruco.py which is a part of our alternate approach to align our end affector to the port in the aiming phase using Aruco markers.
