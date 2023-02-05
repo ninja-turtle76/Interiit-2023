@@ -20,5 +20,5 @@ for i = 1:1:10
             ay = "Down";
         end
     end
-
+    pause(1);
 end

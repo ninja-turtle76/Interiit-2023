@@ -52,9 +52,9 @@ while(True):
     dir = cwd+"\\runs\\detect\\predict"
     if os.path.exists(dir):
         shutil.rmtree(dir)
-    cv2.imshow('frame', frame)
-    if cv2.waitKey(1000) & 0xFF == ord('q'):
-        break
+    #cv2.imshow('frame', frame)
+    #if cv2.waitKey(1000) & 0xFF == ord('q'):
+    break
 vid.release()
 cv2.destroyAllWindows()
 print(data)
