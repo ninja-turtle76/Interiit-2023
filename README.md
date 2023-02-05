@@ -34,3 +34,5 @@ This folder contains a python program Aruco.py which is a part of our alternate 
 ### Footnote
 
 The code will require changes before being deployed on any development board as there can be some specific programming differences depending on the board
+
+Also since the integration of a camera into the simscape model was not possible, we were unable to write exact code for the simscape environment, we have printed statements saying which functions will be executed based on conditions, these functions can be found separately in the simscape environment
