@@ -1,3 +1,3 @@
 for i = 1:1:10
-    data = pyrunfile("aim.py", "data");
+    pyrunfile("aim.py");
 end
