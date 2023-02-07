@@ -10,14 +10,17 @@ last_r = 0
 
 def plug():
     print("Plug in the charger")
+    # change z axis parameter to plug in charger 
     return
 
 def move(dir):
     if dir == 'left':
         print("Rotate left")
+        # change parameter to rotate end effector
         return
     else:
         print("Rotate Right")
+        # change parameter to rotate end effector
         return
 
 def aim(last,r):
